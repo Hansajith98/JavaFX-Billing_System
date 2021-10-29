@@ -6,4 +6,6 @@ Technologies :
 + SQLite DB
 + Netbeans IDE
 
-Features and footages :
+Images :
+
+![Screenshot](https://i.postimg.cc/Nfzx5B8H/Aiestimet.jpg)
